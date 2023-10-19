@@ -10,4 +10,4 @@ Url 	 : http://localhost/voter/login
 Username: charlesvictor.info@gmil.com
 Password: 12345678
 
-FYI: Laravel Auth verification beginning it is working fine. But I installed some packages that time due to some causes errors. So please check my code validity also.
+FYI: Laravel Auth verification beginning it is working fine. But I installed some packages that time due to some causes of real-time errors. So I am able to do but need to complete the remaining parts. So please check my code level also.
